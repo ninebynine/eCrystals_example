@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Example of crystallography data",
+  "rdfs:comment": "",
+  "annal:software_version": "0.1.13",
+  "annal:type_id": "_collection",
+  "annal:default_list": "Crystal_structure_list",
+  "annal:id": "eCrystals_example",
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:type": "annal:Collection"
+}

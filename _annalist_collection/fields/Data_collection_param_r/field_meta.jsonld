@@ -1,0 +1,24 @@
+{
+  "rdfs:label": "Data collection parameters",
+  "rdfs:comment": "Data collection parameters",
+  "annal:group_ref": "Data_collection_param",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(data collection parameters)",
+  "annal:property_uri": "ecrys:data_collection_params",
+  "annal:field_ref_type": "",
+  "annal:field_entity_type": "",
+  "@id": "./",
+  "annal:repeat_label_delete": "Remove parameter",
+  "annal:field_ref_restriction": "",
+  "annal:field_placement": "small:0,12",
+  "annal:repeat_label_add": "Add parameter",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Field_group",
+  "annal:field_render_type": "RepeatGroupRow",
+  "annal:field_ref_field": "",
+  "annal:id": "Data_collection_param_r",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

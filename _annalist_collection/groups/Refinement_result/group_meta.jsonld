@@ -1,0 +1,24 @@
+{
+  "rdfs:label": "Refinement result",
+  "rdfs:comment": "Refinement result",
+  "annal:type_id": "_group",
+  "annal:record_type": "",
+  "annal:group_fields": [
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:field_id": "Result_name"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:6,6",
+      "annal:field_id": "Result_value"
+    }
+  ],
+  "annal:id": "Refinement_result",
+  "@id": "./",
+  "@type": [
+    "annal:Field_group"
+  ],
+  "annal:type": "annal:Field_group"
+}

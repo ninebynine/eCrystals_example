@@ -1,0 +1,15 @@
+{
+  "rdfs:label": "Structure",
+  "rdfs:comment": "Crystal structuyre informnation from eCrystals",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:uri": "ecrys:Structure",
+  "annal:type_list": "Crystal_structure_list",
+  "annal:id": "Crystal_structure",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "Crystal_structure_view"
+}

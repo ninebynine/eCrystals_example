@@ -1,0 +1,93 @@
+{
+  "rdfs:label": "6,7,9,10,12,13,15,16-Octahydro-benzo-1,4,7,10,13-pentaoxacyclopentadecin",
+  "rdfs:comment": "6,7,9,10,12,13,15,16-Octahydro-benzo-1,4,7,10,13-pentaoxacyclopentadecin\r\n\r\nC<sub>14</sub>H<sub>20</sub>O<sub>5</sub>\r\n\r\nInChI=1/C14H20O5/c1-2-4-14-13(3-1)18-11-9-16-7-5-15-6-8-17-10-12-19-14/h1-4H,5-12H2\r\n\r\nStructure already known, but accurately redetermined for a local research project.\r\n\r\nCitation: Rousay, Esther and Frey, Jeremy G. and Coles, Simon J. and Hursthouse, Michael B. (2004) University of Southampton, Crystal Structure Report Archive. (doi:10.5258/ecrystals/145)\r\n\r\n[a] University of Southampton.\r\n",
+  "ecrys:link": "http://ecrystals.chem.soton.ac.uk/145/",
+  "ecrys:sample_originator": "Esther Rousay[a] and Jeremy G. Frey[a].",
+  "annal:type_id": "Crystal_structure",
+  "ecrys:refinement_results": [
+    {
+      "ecrys:result_name": "Solution figure of merit",
+      "ecrys:result_value": "0.0409"
+    },
+    {
+      "ecrys:result_name": "R Factor (Obs)",
+      "ecrys:result_value": "0.0487"
+    },
+    {
+      "ecrys:result_name": "R Factor (All)",
+      "ecrys:result_value": "0.0977"
+    },
+    {
+      "ecrys:result_name": "Weighted R Factor (Obs)",
+      "ecrys:result_value": "0.1008"
+    },
+    {
+      "ecrys:result_name": "Weighted R Factor (All)",
+      "ecrys:result_value": "0.1192"
+    }
+  ],
+  "ecrys:structure_determination": "Simon J. Coles[a] and Michael B. Hursthouse[a]",
+  "ecrys:date_created": "2004-10-07",
+  "ecrys:deposited_by": "Dr Simon J Coles",
+  "ecrys:data_collection": "Simon J. Coles[a]",
+  "@id": "./",
+  "ecrys:identification_num": "10.5258/ecrystals/145",
+  "ecrys:keywords": [
+    "crown_ethers",
+    "crown"
+  ],
+  "ecrys:data_collection_params": [
+    {
+      "ecrys:param_value": "C14 H20 O5",
+      "ecrys:param_name": "Chemical formula"
+    },
+    {
+      "ecrys:param_value": "Plate",
+      "ecrys:param_name": "Crystal morphology"
+    },
+    {
+      "ecrys:param_value": "Orthorhombic",
+      "ecrys:param_name": "Crystal system"
+    },
+    {
+      "ecrys:param_value": "Pbca",
+      "ecrys:param_name": "Space group symbol"
+    },
+    {
+      "ecrys:param_value": "16.4963(18)",
+      "ecrys:param_name": "Cell length a"
+    },
+    {
+      "ecrys:param_value": "8.325(3)",
+      "ecrys:param_name": "Cell length b"
+    },
+    {
+      "ecrys:param_value": "20.061(6)",
+      "ecrys:param_name": "Cell length c"
+    },
+    {
+      "ecrys:param_value": "90",
+      "ecrys:param_name": "Cell angle alpha"
+    },
+    {
+      "ecrys:param_value": "90",
+      "ecrys:param_name": "Cell angle beta"
+    },
+    {
+      "ecrys:param_value": "90",
+      "ecrys:param_name": "Cell angle gamma"
+    },
+    {
+      "ecrys:param_value": "120(2)",
+      "ecrys:param_name": "Data collection temperature"
+    }
+  ],
+  "@type": [
+    "ecrys:Structure",
+    "annal:EntityData"
+  ],
+  "ecrys:qr_code": "http://www.bluerhinos.co.uk/qrcode/qr/qr_img.php?noad=1&d=http%3A//dx.doi.org/10.5258/ecrystals/145&user=http%3A//ecrystals.chem.soton.ac.uk",
+  "annal:id": "415",
+  "ecrys:deposited_on": "2008-01-21TR15:29",
+  "annal:type": "annal:EntityData"
+}
